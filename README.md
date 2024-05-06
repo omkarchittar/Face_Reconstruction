@@ -9,6 +9,11 @@ pip install -r requirements.txt
 ```
 
 # Face landmark detection
+Navigate to the FaceReconstruction folder
+```
+cd ./FaceReconstruction
+```
+
 Run the ```generate_ply.py``` file to generate point cloud ```.ply``` file
 
 ```
