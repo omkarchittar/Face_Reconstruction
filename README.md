@@ -19,3 +19,9 @@ Run the ```generate_ply.py``` file to generate point cloud ```.ply``` file
 ```
 python generate_ply.py
 ```
+
+If cv2.error is prompted, you may need to run the following command to reinstall cv2
+
+```
+pip install opencv-python
+```
